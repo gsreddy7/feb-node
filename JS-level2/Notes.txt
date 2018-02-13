@@ -1,0 +1,29 @@
+
+
+
+ECMAScript-2015 / ES6
+-----------------------
+
+
+	New-syntax
+	-------------
+	
+	1. string interpolation
+	2. let & const keywords with block-scope
+	3. function default & rest params
+	4. object-literal enhancements
+	5. destructuring
+	6. spread opeartor
+	7. symbol type
+	8. for-of-loop
+	9. iterable objects & generator functions
+	10. arrow function
+	11. new OO with 'class' syntax
+	12. JS - modules
+	13. JS - Async APIs  ( Promise API )
+	//---------------------------------------------
+
+	JS concurrency Model with Event-Loop
+	
+		
+	 
