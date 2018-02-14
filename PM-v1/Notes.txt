@@ -1,0 +1,18 @@
+
+
+
+
+problems with traditional web-application:
+----------------------------------------
+
+
+
+
+---------------------------------------------------------------------
+
+==> increase n/w bandwidth
+==> on every req, server-side programs shud generate dynamic HTML-page , 
+    by maintaining client's state
+==> on every resp, browser re-loads current-page with new-page response.
+
+-----------------------------------------------------------------------    

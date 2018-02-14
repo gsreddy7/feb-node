@@ -1,0 +1,109 @@
+
+
+
+
+Rest Api 
+------------ 
+
+ ref : https://en.wikipedia.org/wiki/Representational_state_transfer
+
+	
+	step-1 : Resource identification in requests
+	------------------------------------
+	  	
+	  	/products
+	  	
+	 step-2: Resource manipulation through representations
+	 -----------------------------------------------------
+	 
+	   html | json | xml | csv | report | media type 	
+	   
+	   
+	 step-3: Self-descriptive messages
+	 ----------------------------------
+	 
+	 	request & response headers
+	 	
+	 	
+	step-4: Hypermedia as the engine of application state (HATEOAS) 	  
+	----------------------------------  	
+	  	
+	  	
+  	
+  	
+  	
+  	=====================================================
+  	
+  	
+  	
+  	
+  	limitations of plain-js with browser's API
+  	-------------------------------------------
+  	
+  	
+  	==> browser compatability...
+  	==> performance issues ( i.e DOM manipulation )
+    ==> memory issues ( i.e cleaning un-used DOM elements )
+    ==> data-binding is manual
+    ==> code organization is difficult
+    
+    
+    
+    soln :
+    
+      -> using third-party's js lib & frameworks
+      
+       e.g
+       
+       
+	    DOM lib
+        ----------
+       
+       	1. Jquery ( simplifies working with DOM & XHR )  	
+       	
+       	MVC & MVVM based F.W
+       	--------------------
+       	
+       	1. backbone
+       	2. ember
+       	3. ko
+       	4. AngularJS
+       	
+       	5. DOJO
+       	6. ExtJS
+       	...
+       	
+       	component based lib & F.W
+       	----------------------------
+       	
+       	 1. React  : v16
+       	 2. Angular : v5
+       	 3. Vue
+       	 4. Polymer
+       	 ...
+       	 	
+       	
+       	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+
+
+
+
