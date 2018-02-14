@@ -1,0 +1,49 @@
+
+
+
+web-application
+------------------
+
+
+	- http   ==> module
+	
+	
+	---------------------------------------
+	
+	web-appln req
+	
+	
+	--> routing support
+	
+			=> by path
+			=> by http-method
+			=> by presence/absence of req params/headers
+			
+	--> middleware support
+	
+	--> dynamic view support 		
+	
+	.....
+	
+	--------------------------------------
+	
+	
+	Node.js , web Frameworks
+	
+	
+	   - Express
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
